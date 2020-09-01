@@ -1,0 +1,17 @@
+.banner {
+    height: 95vh;
+    background-image: url(../images/avengers2.jpg);
+    background-size: cover;
+    background-position: 35% 50%;
+    
+    
+}
+
+.header-text {
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+    left: 20rem;
+    top: 10rem;
+    color: white;
+}
